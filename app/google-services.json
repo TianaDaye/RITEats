@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378610253045",
+    "project_id": "riteats-8e224",
+    "storage_bucket": "riteats-8e224.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378610253045:android:5a47f4b316e93c1a4cd9bc",
+        "android_client_info": {
+          "package_name": "com.daye.riteats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANCV1ifpGdv04IT0gW-lVaffdqkPoAUx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
